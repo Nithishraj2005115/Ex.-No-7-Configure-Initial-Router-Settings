@@ -1,6 +1,6 @@
 ## Ex. No: 7 – Configure Initial Router Settings
 # Name: NITHISHRAJ M
-# REG NO : 212223060118
+# REG NO : 212223060187
 # Date:19/08/26
 ________________________________________
 # Objective
