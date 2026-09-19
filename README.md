@@ -1,5 +1,7 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Name: NITHISHRAJ M
+# REG NO : 212223060118
+# Date:19/08/26
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -17,6 +19,8 @@ ________________________________________<br>
 ________________________________________<br>
 # Network Topology Diagram
 (Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/246affea-f74c-4224-bb63-d6db45c150de" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -84,6 +88,10 @@ ________________________________________
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/aed87743-d43c-414e-8901-bf9c6b670be8" />
+<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/f3ec00fb-920b-4972-ad55-905da86e0315" />
+
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
